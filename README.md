@@ -55,7 +55,7 @@ To run any of the projects on your local machine, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/PriyantNikhare/java-internship-codsoft.git
+   git clone https://github.com/PriyantNikhare/CODSOFT.git
    ```
 
 2. Navigate to the project directory:
