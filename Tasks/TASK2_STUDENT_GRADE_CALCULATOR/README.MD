@@ -70,5 +70,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, feel free to reach out:
 
-- GitHub: [yourusername](https://github.com/PriyantNikhare)
+- GitHub: [Priyant Prashant Nikhare](https://github.com/PriyantNikhare)
 - Email: nikharepriyant@gmail.com
