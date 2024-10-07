@@ -14,7 +14,7 @@
 - [Acknowledgements](#acknowledgements)
 
 ## Overview
-The **ATM Application** is a simple console-based application developed in Java that simulates the basic functionalities of an Automated Teller Machine (ATM). Users can perform operations such as depositing money, withdrawing cash, and checking their account balance through a straightforward user interface.
+The **ATM Application** is a simple console-based application developed in Java that simulates the basic functionalities of an *Automated Teller Machine (ATM)*. Users can perform operations such as depositing money, withdrawing cash, and checking their account balance through a straightforward user interface.
 
 ## Features
 - **Deposit Funds**: Users can deposit money into their bank account.
