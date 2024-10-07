@@ -46,7 +46,13 @@ This repository serves as a record of my internship experience at **Codsoft**, w
    - Description: A simulation of an Automated Teller Machine (ATM) that allows users to perform basic banking transactions such as withdrawing cash, depositing funds, and checking account balances. The application ensures safe transactions through validation checks.
    - Topics covered: Concurrency, exception handling, object-oriented programming, user interface design.
 
-_(Add or remove projects as necessary)_
+4. **Project Name 4: Currency Converter**
+   - Description: The **Currency Converter** is a Java application that allows users to convert amounts between different currencies using real-time exchange rates. Users can select a base currency and a target currency, input an amount, and the application will calculate the equivalent amount in the target currency.
+   - Topics covered: API Integration (fetching real-time currency rates), Input Validation, Basic arithmetic operations, User Interface Design (console-based or GUI).
+
+5. **Project Name 5: Student Management System**
+   - Description: The **Student Management System** is a Java application that manages student records. It allows users to add, remove, search, and display student details such as name, roll number, and grade. The system is designed to ensure data integrity and provide a user-friendly interface.
+   - Topics covered: Object-Oriented Programming (OOP), File Handling (reading/writing student data), Input Validation, Console-based or GUI Application Development.
 
 ## Installation and Setup
 
