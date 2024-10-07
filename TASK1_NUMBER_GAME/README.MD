@@ -15,7 +15,7 @@ This project is a simple command-line game built in Java where users try to gues
 
 1. Clone the repository or download the source code.
    ```bash
-   git clone https://github.com/nikharepriyant/TASK1_NUMBER_GAME.git
+   git clone https://github.com/PriyantNikhare/CODSOFT.git
    ```
 
 2. Navigate to the project directory:
