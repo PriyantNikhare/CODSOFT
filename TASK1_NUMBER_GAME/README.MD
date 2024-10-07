@@ -1,5 +1,4 @@
-```
-# Guess The Number Game - Java
+# Number Game - Java
 
 This project is a simple command-line game built in Java where users try to guess a randomly generated number within a specified range. The game provides feedback on whether the guess is too high, too low, or correct, and allows for multiple rounds with a limited number of attempts.
 
@@ -58,4 +57,3 @@ For any questions or suggestions, feel free to reach out:
 
 - GitHub: [Priyant Prashant Nikhare](https://github.com/PriyantNikhare)
 - Email: nikharepriyant@gmail.com
-```
