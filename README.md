@@ -26,7 +26,7 @@ This repository serves as a record of my internship experience at **Codsoft**, w
 
 ## Projects
 
-1. **Number Game**
+1. **Project Name 1: Number Game**
 
    **Description:**  
       This project is a command-line game built in Java. In this game, the user has to guess a randomly generated number within a specified range. The game provides feedback whether the user's guess is too high, too low, or correct. It limits the number of attempts for each round and offers the option to play multiple rounds. A score is maintained based on the rounds played.
@@ -38,13 +38,13 @@ This repository serves as a record of my internship experience at **Codsoft**, w
     - Loops and conditionals
     - Score and attempt tracking
 
-3. **[Project Name 2]**
-   - Description: [Brief description of the project]
-   - Topics covered: [Algorithms, file handling, etc.]
+3. **Project Name 2: Student Grade Calculator**
+   - Description: A console-based application that takes the marks obtained by students in various subjects, calculates the total marks and average percentage, and assigns grades based on the average percentage achieved. The application provides a user-friendly interface for easy interaction.
+   - Topics covered: Algorithms, file handling, data structures, user input validation.
 
-4. **[Project Name 3]**
-   - Description: [Brief description of the project]
-   - Topics covered: [Concurrency, exception handling, etc.]
+4. **Project Name 3: ATM Interface**
+   - Description: A simulation of an Automated Teller Machine (ATM) that allows users to perform basic banking transactions such as withdrawing cash, depositing funds, and checking account balances. The application ensures safe transactions through validation checks.
+   - Topics covered: Concurrency, exception handling, object-oriented programming, user interface design.
 
 _(Add or remove projects as necessary)_
 
