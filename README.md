@@ -26,9 +26,16 @@ This repository serves as a record of my internship experience at **Codsoft**, w
 
 ## Projects
 
-1. **[Project Name 1]**
-   - Description: [Brief description of the project]
-   - Topics covered: [OOP, data structures, etc.]
+1. **Number Game**
+   **Description:**  
+This project is a command-line game built in Java. In this game, the user has to guess a randomly generated number within a specified range. The game provides feedback whether the user's guess is too high, too low, or correct. It limits the number of attempts for each round and offers the option to play multiple rounds. A score is maintained based on the rounds played.
+
+**Topics covered:**  
+- Object-Oriented Programming (OOP)
+- Random number generation
+- User input handling
+- Loops and conditionals
+- Score and attempt tracking
 
 2. **[Project Name 2]**
    - Description: [Brief description of the project]
