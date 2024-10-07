@@ -61,7 +61,7 @@ To run any of the projects on your local machine, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd java-internship-codsoft
+   cd CODSOFT
    ```
 
 3. Import the project into your favorite Java IDE (Eclipse, IntelliJ IDEA).
