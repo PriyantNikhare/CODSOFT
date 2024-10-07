@@ -19,7 +19,7 @@ This project is a simple command-line game built in Java where users try to gues
 
 2. Navigate to the project directory:
    ```bash
-   cd TASK1_NUMBER_GAME
+   cd Tasks/TASK1_NUMBER_GAME
    ```
 
 3. Compile the Java source code:
