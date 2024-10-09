@@ -95,4 +95,4 @@ If you have any questions or want to connect, you can reach me at:
 
 - **GitHub**: [Priyant Prashant Nikhare](https://github.com/PriyantNikhare)
 - **Email**: [nikharepriyant@gmail.com](mailto:nikharepriyant@gmail.com)
-- **LinkedIn**: [Priyant Prashant Nikhare](https://linkedin.com/in/nikharepriyant)
+- **LinkedIn**: [Priyant Prashant Nikhare](https://linkedin.com/in/priyantnikhare)
