@@ -94,5 +94,5 @@ If you'd like to contribute or suggest improvements to any of the projects in th
 If you have any questions or want to connect, you can reach me at:
 
 - **GitHub**: [Priyant Prashant Nikhare](https://github.com/PriyantNikhare)
-- **Email**: [nikharepriyant@gmail.com](mailto:nikharepriyant@gmail.com)
-- **LinkedIn**: [Priyant Prashant Nikhare](https://linkedin.com/in/priyantnikhare)
+- **Email**: [priyant.p.nikhare@gmail.com](mailto:priyant.p.nikhare@gmail.com)
+- **LinkedIn**: [Priyant Prashant Nikhare](https://linkedin.com/in/nikharepriyant)
