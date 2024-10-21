@@ -119,4 +119,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Contributions are welcome! If you have suggestions for improvements or features, please open an issue or submit a pull request.
 
 ## Contact
-For any inquiries, please contact [nikharepriyant@gmail.com](mailto:nikharepriyant@gmail.com).
+For any inquiries, please contact [priyant.p.nikhare@gmail.com](mailto:priyant.p.nikhare@gmail.com).
