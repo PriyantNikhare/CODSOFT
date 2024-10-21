@@ -74,4 +74,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. 
 
 ## Contact
-For any inquiries or issues, please contact [nikharepriyant@gmail.com](mailto:nikharepriyant@gmail.com).
+For any inquiries or issues, please contact [priyant.p.nikhare@gmail.com](mailto:priyant.p.nikhare@gmail.com).
