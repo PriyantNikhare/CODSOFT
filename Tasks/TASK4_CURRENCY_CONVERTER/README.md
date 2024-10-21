@@ -69,4 +69,4 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 For any questions or suggestions, feel free to reach out:
 
 - GitHub: [Priyant Prashant Nikhare](https://github.com/PriyantNikhare)
-- Email: nikharepriyant@gmail.com
+- Email: priyant.p.nikhare@gmail.com
